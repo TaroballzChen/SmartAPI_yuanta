@@ -2,3 +2,5 @@
 元大SmartAPI期貨下單機器人，API調用部分代碼範例
 
 並使用LINE notify通知交易情況
+
+![Trader](https://i.imgur.com/h82bZ8Q.png)
